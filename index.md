@@ -1,37 +1,13 @@
-## Pinoy Bitcoin Teller
+---
+---
+## Pinoy Bitcoin Teller 
 
-You can use the [editor on GitHub](https://github.com/pinoybitcointeller/pinoybitcointeller.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You are probably here because **you have questions or clarifications on how to use the Abra app** to buy or sell bitcoins.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below are [frequently asked questions regarding Abra](#faq). Check the list below if you have questions similar to them.
 
-### Markdown
+Should your question be not in the list, feel free to join the [Abra Users and Tellers Group](https://www.facebook.com/groups/abra.users.tellers.ph/) and ask your questions. Our friendly community of Abra users and tellers would be glad to help you find your way.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Frequently Asked Questions {#faq}
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pinoybitcointeller/pinoybitcointeller.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  

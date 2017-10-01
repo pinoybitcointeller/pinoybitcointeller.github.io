@@ -1,2 +1,5 @@
 theme: jekyll-theme-tactile
-markdown: karmdown
+title: Pinoy Bitcoin Teller
+description: Buy and sell Bitcoins IN MINUTES using the Abra app.
+repository: pinoybitcointeller/pinoybitcointeller.github.io
+show_downloads: false
