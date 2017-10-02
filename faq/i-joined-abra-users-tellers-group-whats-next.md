@@ -1,4 +1,6 @@
 ---
+title: Okay, I joined the Abra Users and Tellers Group. What's next? 
+description: How do I then purchase Bitcoins?
 image: /assets/images/abra_logo.jpg
 ---
 ![Abra Logo](/assets/images/abra_logo.jpg)
