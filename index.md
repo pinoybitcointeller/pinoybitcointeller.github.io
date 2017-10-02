@@ -10,9 +10,12 @@ Should your question be not in the list, feel free to join the [Abra Users and T
 
 ### Frequently Asked Questions {#faq}
 
-1. [Okay, I joined the Abra Users and Tellers Group. What's next?](#)
+1. [Okay, I joined the Abra Users and Tellers Group. What's next?](faq/i-joined-abra-users-tellers-group-whats-next)
+1. [How do I buy/sell Bitcoins from an Abra Teller?](#)
+1. [How do I verify that I'm dealing with a legitimate Abra Teller?](#)
 1. [How do I see the current exchange rate of Abra?](#)
 1. [What are the available modes of payment for cash-in or cash-out?](#)
+
 
 
   
