@@ -1,5 +1,7 @@
 ---
 ---
+![Abra Logo](/assets/images/abra_logo.jpg)
+
 ## Okay, I joined the Abra Users and Tellers Group. What's next?
 
 1. First and foremost, be sure that you **have the Abra app installed** on your mobile device.
