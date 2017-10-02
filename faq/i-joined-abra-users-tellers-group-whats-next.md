@@ -1,4 +1,5 @@
 ---
+image: /assets/images/abra_logo.jpg
 ---
 ![Abra Logo](/assets/images/abra_logo.jpg)
 
