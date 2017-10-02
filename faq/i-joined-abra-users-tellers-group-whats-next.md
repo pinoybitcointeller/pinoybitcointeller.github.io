@@ -30,5 +30,5 @@ image: /assets/images/abra_logo.jpg
    <!-- *Related: [How do I verify that I'm dealing with a legitimate Abra Teller?](#)* -->
 
 
-1. Do you have any questions regarding Abra? Don't be shy, just **post your question in the groups**, and our fellow ka-Abra's will answer your questions. 
+1. Do you have any questions regarding Abra? Don't be shy, just [post your question in the groups](https://www.facebook.com/groups/abra.users.tellers.ph/){:target="blank"}, and our fellow ka-Abra's will answer your questions. 
 
