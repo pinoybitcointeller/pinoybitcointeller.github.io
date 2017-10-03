@@ -46,4 +46,4 @@ kramdown:
 
 1. Do you have any questions regarding Abra? Don't be shy, just [post your question in the groups](https://www.facebook.com/groups/abra.users.tellers.ph/){:target="blank"}, and our fellow ka-Abra's will answer your questions. 
 
-<div class="fb-comments" data-href="https://pinoybitcointeller.github.io/faq/i-joined-abra-users-tellers-group-whats-next" data-numposts="20" data-colorscheme="dark" style="margin-top: 75px;"></div>
+<div class="fb-comments" data-href="https://pinoybitcointeller.github.io/faq/i-joined-abra-users-tellers-group-whats-next" data-numposts="20" data-colorscheme="light" style="margin-top: 75px;"></div>
