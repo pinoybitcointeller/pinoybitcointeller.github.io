@@ -2,7 +2,21 @@
 title: Okay, I joined the Abra Users and Tellers Group. What's next? 
 description: How do I then purchase Bitcoins?
 image: /assets/images/abra_logo.jpg
+kramdown: 
+  parse_block_html: true
 ---
+
+<!-- FB JavaScript SDK -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=1941184802788212";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
 ![Abra Logo](/assets/images/abra_logo.jpg)
 
 ## Okay, I joined the Abra Users and Tellers Group. What's next?
@@ -32,3 +46,4 @@ image: /assets/images/abra_logo.jpg
 
 1. Do you have any questions regarding Abra? Don't be shy, just [post your question in the groups](https://www.facebook.com/groups/abra.users.tellers.ph/){:target="blank"}, and our fellow ka-Abra's will answer your questions. 
 
+<div class="fb-comments" data-href="https://pinoybitcointeller.github.io/faq/i-joined-abra-users-tellers-group-whats-next" data-numposts="20" data-colorscheme="dark" style="margin-top: 75px;"></div>
